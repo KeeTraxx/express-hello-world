@@ -1,0 +1,13 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Khôi Tran <tran@puzzle.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
